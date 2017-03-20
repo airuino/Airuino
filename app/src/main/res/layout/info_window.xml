@@ -13,7 +13,7 @@
         android:id="@+id/Add"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:text="+"
+        android:text="@string/add"
         android:background="@drawable/button"
         android:textSize="18sp"
         android:textColor="@color/cast_libraries_material_featurehighlight_text_body_color"/>
@@ -28,13 +28,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="16sp"
-            android:text="Title"
+            android:text="@string/Title"
             android:elevation="11dp" />
 
     </LinearLayout>
 
     <Button
-        android:text=">"
+        android:text="@string/details"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:id="@+id/LocationDetails"
