@@ -16,7 +16,7 @@
         android:text="+"
         android:background="@drawable/button"
         android:textSize="18sp"
-        android:textColor="@color/common_signin_btn_dark_text_focused"/>
+        android:textColor="@color/cast_libraries_material_featurehighlight_text_body_color"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -40,7 +40,7 @@
         android:id="@+id/LocationDetails"
         android:background="@drawable/button"
         android:textSize="18sp"
-        android:textColor="@color/common_signin_btn_dark_text_focused"
+        android:textColor="@color/cast_libraries_material_featurehighlight_text_body_color"
         android:textDirection="locale" />
 
 </LinearLayout>
